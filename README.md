@@ -1,0 +1,2 @@
+# TangyBlazor
+Blazor WASM
